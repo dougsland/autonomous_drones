@@ -54,8 +54,17 @@ This project provides a Python-based framework for controlling drones, initially
 
 ## Tested Configuration
 
-- **Drone:** DJI Tello
-- **Controller:** PlayStation 5 controller connected via USB-C
+- [**Drone:** DJI Tello](https://www.amazon.com/DJI-Tello-Boost-Combo-Drone/dp/B0BTJ773C1)
+<p align="center">
+  <img src="https://github.com/dougsland/autonomous_drones/blob/main/pics/01.jpg" alt="Autonomous Drone Image 1" width="50%">
+</p>
+
+- [**Controller:** PlayStation 5 controller connected via USB-C](https://www.amazon.com/PlayStation-DualSense-Wireless-Controller/dp/B0CPXXWZGW/ref=sr_1_4?crid=V5QLJV24Y2UH&dib=eyJ2IjoiMSJ9.a_ghpjg03vvpon7A_D6F3Aeppp1-Cj82LIi8p57n29xZQkjts76dRPiyJjwcXro9ZDG_tZvJJo_FVW072LiJz7rVxY_YwwuVTDd4VO6oeDwXCAOwge1KuECYPraOBkOvw5Fam3UR6e7684z-C20bfXAyQ-x_t9K_NEIbMKFY1LyXjQHddreenPitO03pK59ZzC2-hS74KL9J1CrX_DLTxOhjKhxeYAsLhqgj-oOYSxA.EeHMzUYEEWj_1VEEAT_jmIvcReExAsDtIVHX6eawPiU&dib_tag=se&keywords=playstation+5+controller&qid=1735403675&sprefix=playstation+5+controlle%2Caps%2C150&sr=8-4)
+<p align="center">
+  <img src="https://github.com/dougsland/autonomous_drones/blob/main/pics/02.jpg" alt="Autonomous Drone Image 1" width="50%">
+</p>
+
+
 - **Operating System:** Linux-based system with `nmcli` for Wi-Fi management
 
 ## Extending to Other Drones
