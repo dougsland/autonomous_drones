@@ -25,8 +25,8 @@ This project provides a Python-based framework for controlling drones, initially
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/drone-control-framework.git
-   cd drone-control-framework
+   git clone https://github.com/dougsland/autonomous_drones
+   cd autonomous_drones
    ```
 
 2. Install the required dependencies:
